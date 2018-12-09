@@ -4,7 +4,7 @@ public class okClass
 {
    public static void main(String[] args)
    {
-      boolean ok = true;
+      boolean ok = false;
       if (ok)
          System.out.println("True");
       else
